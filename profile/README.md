@@ -15,7 +15,8 @@ We believe that data and DevOps are essential in today's software world. Let's w
 Explore our projects, join us in making contributions, and let's unlock the full potential of seamless Data and DevOps integration.
 
 Get in touch with us:
-🌐 Website: [www.dataopstix.com](https://www.dataopstix.com)
+
+🌐 Website: [www.dataopstix.com](https://www.dataopstix.com)  
 📧 Email: connect@dataopstix.com
 
 Together, we'll build the future of data-driven DevOps, one step at a time. 🚀
